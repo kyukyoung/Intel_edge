@@ -2,4 +2,4 @@
 
 * voicebot reference
   https://github.com/EropeConsulting/INTEL_LLM/tree/main  
-  ㅇㅇㅇ
+// 개행: spacebar 2번
