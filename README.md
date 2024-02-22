@@ -1,5 +1,5 @@
 # Intel_edge
 
 * voicebot reference
-  https://github.com/EropeConsulting/INTEL_LLM/tree/main
+  https://github.com/EropeConsulting/INTEL_LLM/tree/main  
   ㅇㅇㅇ
